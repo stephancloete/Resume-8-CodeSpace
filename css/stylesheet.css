@@ -46,7 +46,6 @@ header {
 .main{
   display: flex;
   flex-direction: row;
-  /*overflow: unset;*/
   width: 100%;
   padding: 0%;
 
